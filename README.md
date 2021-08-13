@@ -1,6 +1,7 @@
 # Dsc-Widget
 
-Soon we will add the code its still being developed/tested.
+Hey! check the code.html tab and you can get the code there
+check the website for the how to setup widget. <a href="https://widget.hexxlabs.xyz/">Click me!</a>
 
 # Current Demo
 
